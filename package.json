@@ -1,0 +1,23 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "Header Parser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonyaMoisset/header-parser.git"
+  },
+  "author": "Sonya Moisset",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonyaMoisset/header-parser/issues"
+  },
+  "homepage": "https://github.com/SonyaMoisset/header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "path": "^0.12.7"
+  }
+}
